@@ -1,0 +1,5 @@
+depend:
+  cubical
+  agda-categories
+  standard-library
+  .

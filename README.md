@@ -1,1 +1,1 @@
-# cubical-stlc-nrom
+# cubical-stlc-norm
